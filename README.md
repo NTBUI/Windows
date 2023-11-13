@@ -1,7 +1,7 @@
 # Windows
 Programs for Windows
 
-CopyPaste Array --------------
+-------------- CopyPaste Array --------------
 
 -Run program in background
 
@@ -12,3 +12,9 @@ CopyPaste Array --------------
 -You can access which copied text you want to retrieve by pressing ctrl + (NUM 1-9) corresponding to what number you assigned in the previous step.
 
 -Then you press ctrl+v after selecting what copied function in the array you want to paste.
+
+
+-------------- Ctrl+Alt+Tab (Vertical Windows Switching) --------------
+
+In progress
+
