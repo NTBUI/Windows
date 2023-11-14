@@ -18,3 +18,7 @@ Programs for Windows
 
 In progress
 
+-------------- Youtube video skip, by minute or by chapter --------------
+
+In progress
+
